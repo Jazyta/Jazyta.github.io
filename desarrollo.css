@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+
+.inicio {
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background: #edb886;
+    margin: 2px
+}
+
+.inicio h1 {
+    width: 45%;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: "Protest Guerrilla", sans-serif;
+   }
+
+.inicio h4 {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(28, 7, 56);
+    font-family: "Baskervville SC", serif;
+}
+
+.inicio p {
+    width:98%;
+    font-size: 16px;
+    text-align: justify;
+    color: rgb(7, 76, 90);
+    font-family: "Playwrite CU", cursive;
+}
+#banda {
+    width: 100%;
+    height: 100%;
+    border-radius: 5%;
+    padding: 5px;
+    
+}
+h1 {
+   padding: 10px;
+   width: 45%;
+   font-size: 28px;
+   text-align: center;
+   color: black;
+   font-family: "Protest Guerrilla", sans-serif;
+
+}
+ol {
+    width: 100%;
+    font-size: 20px;
+    text-align: left;
+    color: rgb(28, 7, 56);
+    text-align: center;
+    font-family: "Baskervville SC", serif;
+}
+.color-hint{
+    background:linear-gradient(yellow, 10%, pink );
+    border-radius: 5%;
+}  
+.container{
+    margin: 10px;
+}  
+.album img{
+    border-radius: 20%;
+    width: 100%;
+    height: 220px;
+} 
+.album {
+    background:linear-gradient(yellow, 10%, pink );
+}  
+
+
